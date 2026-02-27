@@ -1,0 +1,43 @@
+# Vivera-ai
+AI Remote Tech Jobs Platform
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Vivera AI</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        body { font-family: Arial, sans-serif; margin: 0; background-color: #f4f6f9; }
+        header { background: #1e3a8a; color: white; padding: 20px; text-align: center; }
+        .container { padding: 20px; }
+        input { width: 100%; padding: 12px; margin-bottom: 20px; }
+        .job { background: white; padding: 15px; margin-bottom: 15px; border-radius: 8px; }
+        button { background: #2563eb; color: white; padding: 10px; border: none; border-radius: 6px; }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Vivera AI</h1>
+    <p>Find Remote AI & Tech Jobs Faster</p>
+</header>
+
+<div class="container">
+    <input type="text" placeholder="Search AI or Remote Jobs...">
+
+    <div class="job">
+        <h3>Remote AI Engineer</h3>
+        <p>Company: TechNova</p>
+        <button>Apply</button>
+    </div>
+
+    <div class="job">
+        <h3>Machine Learning Intern</h3>
+        <p>Company: DataWorld</p>
+        <button>Apply</button>
+    </div>
+
+</div>
+
+</body>
+</html>
